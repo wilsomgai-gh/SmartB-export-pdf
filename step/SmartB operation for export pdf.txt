@@ -1,0 +1,31 @@
+1)	go to link	https://inhesion.smartb.co/action?name=pd_request_3	
+2)	login	Username:	Rumaiz
+		Password:	Rumaiz@123
+			
+	(noted sometimes the login page may be skipped)	
+
+        -refer 1.png
+			
+3)	select records by date range		
+	a)	click search button -refer 2.png
+	b)	keyin date range -refer 3.png
+	c)	click search button -refer 4.png
+			
+4)	download pdf of a row		
+	a)	click a row -refer 5.png
+	b)	click Print button -refer 6.png
+	c)      click into Report Template to select 'PD Form (Contented Form) v3' -refer 7.png
+	d)	wait for pdf appear -refer 8.png
+	e)	click 'Download PDF' to download the file -refer 9.png		
+			
+5)	Process next row until all pdf were downloaded		
+	a)	click 'back arrow' -refer 10.png
+	b)	click 'Back to list of pd request' -refer 11.png
+	c)	then click next row until all row on the page	
+		were exported -refer 12.png		
+			
+6)	In case there were more than one page,		
+	should click to next page to continue		
+	until all rows on all pages are exported
+
+        -refer 13.png	
