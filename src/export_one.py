@@ -8,7 +8,7 @@ from urllib.parse import parse_qs, urlparse
 
 from playwright.sync_api import Page, TimeoutError as PlaywrightTimeout
 
-from src.grid import click_req_number, wait_for_list_ready
+from src.grid import click_req_number
 from src.locators import (
     BACK_TO_LIST,
     PREVIEW_TEXT,

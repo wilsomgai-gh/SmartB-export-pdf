@@ -5,3 +5,4 @@ output/
 .deps/
 __pycache__/
 *.pyc
+step/
